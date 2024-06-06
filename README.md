@@ -6,4 +6,4 @@ V3422027
 
 ### Video DEMO
 
-![](demo/videodemo.gif)
+![](videodemo.gif)
